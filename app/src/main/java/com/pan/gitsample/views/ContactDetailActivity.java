@@ -38,7 +38,6 @@ import retrofit2.converter.gson.GsonConverterFactory;
 /*
  * Created by Pandurang.
  */
-
 public class ContactDetailActivity extends BaseActivity {
 
     private final String TAG = ContactDetailActivity.class.getSimpleName();
