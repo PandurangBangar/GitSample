@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="no_data">No Data</string>
+    <string name="no_more_data">No more data</string>
+</resources>
