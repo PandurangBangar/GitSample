@@ -36,7 +36,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /*
- * Created by Pandurang.
+ * Created by Pandurangg.
  */
 public class ContactDetailActivity extends BaseActivity {
 
