@@ -45,7 +45,6 @@ public class ContactDetailActivity extends BaseActivity {
 
     private User user;
 
-    private User user2;
     @BindView(R.id.text_view_name)
     TextView textViewName;
 
